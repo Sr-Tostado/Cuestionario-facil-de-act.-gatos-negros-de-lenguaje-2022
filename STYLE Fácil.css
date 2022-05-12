@@ -1,0 +1,22 @@
+body{
+background-image:url(Fondo.png)
+}
+
+h1{
+    color:red;
+    font-size: 40px;
+}
+p{
+    font-size: 24px;
+}
+
+li{
+font-size: 24px;
+}
+
+imput{
+color: black;
+font-size:24px;
+}
+
+
